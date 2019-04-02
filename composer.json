@@ -1,0 +1,14 @@
+{
+    "name": "larashout/shopping-cart",
+    "description": "A light weight shopping cart package for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LaraShout",
+            "email": "larashout@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

@@ -2,10 +2,10 @@
 
 namespace LaraShout\ShoppingCart\Services;
 
-class ShoppingCart
+class Session
 {
     public function dump()
     {
-        dd('dumping shopping cart');
+        dd('using session');
     }
 }
